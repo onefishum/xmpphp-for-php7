@@ -3,4 +3,4 @@ About
 Repair XMPP support php7
 
 Download adder
-http://www.etianbo.com/
+http://www.51strive.com/
